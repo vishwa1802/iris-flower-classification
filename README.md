@@ -1,5 +1,11 @@
 # 🌸 Iris Flower Classification
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-KNN-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+---
+
 ## 📌 Project Overview
 This project builds a machine learning model to classify Iris flowers into three species:
 
@@ -36,7 +42,7 @@ python iris_classification.py
 ---
 
 ## 🤖 Model Used
-K-Nearest Neighbors (KNN)
+**K-Nearest Neighbors (KNN)**
 
 ---
 
