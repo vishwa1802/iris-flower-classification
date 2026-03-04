@@ -23,12 +23,12 @@ The classification is based on sepal and petal measurements.
 
 ## 🚀 How to Run
 
-### 1️⃣ Install dependencies
+### Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2️⃣ Run the project
+### Run the project
 ```bash
 python iris_classification.py
 ```
@@ -36,7 +36,7 @@ python iris_classification.py
 ---
 
 ## 🤖 Model Used
-**K-Nearest Neighbors (KNN)**
+K-Nearest Neighbors (KNN)
 
 ---
 
@@ -47,9 +47,9 @@ python iris_classification.py
 ---
 
 ## 📌 Conclusion
-The KNN model effectively classifies Iris flowers using sepal and petal features, demonstrating excellent performance on the dataset.
+The KNN model effectively classifies Iris flowers using sepal and petal features with excellent accuracy.
 
 ---
 
 ## 👨‍💻 Author
-Vishal Vishwakarma
+**Vishal Vishwakarma**
